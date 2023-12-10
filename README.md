@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+<img width="960" alt="ps_cis_task" src="https://github.com/ibrahimagdy/ps_cis_task/assets/96210854/2b906c85-cbaf-4e94-8be4-c25f489cbbdf">
+
